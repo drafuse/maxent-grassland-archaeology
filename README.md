@@ -7,3 +7,4 @@ This repository contains supplementary data for the draft manuscript "A Maxent p
 
 * Corr_test_ENMTools.csv file contains the results of the Correlation Pearson correlation coefficient used to tests Multicollinearity between predictors (eviron#mental layers).
 
+* Wilcoxon rank sum.R and the AUC_Hill_InterHill.xlsx are the files needed  to run the Wilcox rank sum test and effect size in R, which was used to compare AUC values.
